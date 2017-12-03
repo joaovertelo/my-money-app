@@ -9,3 +9,5 @@ npm i --save node-restful@0.2.5
 npm i --save pm2@2.1.5
 
 npm i --save-dev nodemon@1.11.0
+
+npm i --save bcrypt@1.0.2 jsonwebtoken@7.3.0
